@@ -8,6 +8,11 @@ A repository to hold my personal development projects & certification informatio
 
 ## Official Certifications:
 
+- Certified Administrator
+
+<strong>Certification can be validated by following the link <a target="_blank" href="https://trailhead.salesforce.com/en/credentials/verification/">here</a> and typing Matthew Dunn into the <em>Verify a Salesforce Certified Professional</em> search box
+
+
 
 ## Optimizations
 
