@@ -16,4 +16,4 @@ Certification can be validated by following the link <a target="_blank" href="ht
 
 ## Optimizations
 
-I always look for ways to improve my code, process implmentations and the support I provide for my peers, colleagues and clients. This repository has been left public so fellow developers can see my personal Salesforce APEX app development and gather ideas for their own organisations. As always, I look for collaboration and constructive criticism regarding my code and imporvement opportunities where possible.
+I always look for ways to improve my code, process implmentations and the support I provide for my peers, colleagues and clients. This repository has been left public so fellow developers can see my personal Salesforce APEX app development and gather ideas for their own organisations. As always, I look for collaboration and constructive criticism regarding my code and improvement opportunities where possible.
